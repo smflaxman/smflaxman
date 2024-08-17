@@ -1,1 +1,1 @@
-I'm Steven Flaxman and I'm a 4th year student at the University of Denver currently studying computer science. 
+I'm Steven Flaxman and I'm a graduate of the University of Denver with a bachelor's degree in computer science.
